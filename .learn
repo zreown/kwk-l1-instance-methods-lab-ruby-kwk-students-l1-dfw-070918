@@ -1,6 +1,8 @@
 tags:
-  - tag1
+  - object orientation
+  - ruby
+  - class instances
 languages:
-  - language1
+  - ruby
 resources: 0
 parent_template: git@github.com:learn-co-curriculum/instance-methods-lab-ruby.git
